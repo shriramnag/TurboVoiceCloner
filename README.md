@@ -1,5 +1,5 @@
 # TurboVoiceCloner
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shriramnag/TurboVoiceCloner/blob/main/TurboVoiceCloner.ipynb)
 # 🎙️ TurboVoiceCloner
 An Open-Source, High-Speed AI Voice Cloning Web App.
 
